@@ -1,1 +1,1 @@
-# projeto-diet-api
+# projeto-product-api
